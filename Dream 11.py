@@ -25,7 +25,7 @@ batsman=[]
 ar=[]
 
 ##Path of the text file which you found in Git Repo. or you can create your own text file
-##just make sure the the pattern.
+##just make sure the pattern.
 '''
 for example
 
