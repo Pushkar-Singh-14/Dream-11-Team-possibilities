@@ -13,7 +13,7 @@ Rules
 ***RULES***
 
 > - Total usable credit is 100, As soon as you have enough credit you can select players.
-
+>
 > - Only one WK is allowed
 > - Batsman: Min 3 , Max 5
 > - All Rounder (AR): Min 1 , Max 3
