@@ -10,8 +10,6 @@ This is a fun project which create a list of all the team combinations. It absol
 Rules
 -------------
 
-***RULES***
-
 > - Total usable credit is 100, As soon as you have enough credit you can select players.
 >
 > - Only one WK is allowed
