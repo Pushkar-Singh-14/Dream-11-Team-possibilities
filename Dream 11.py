@@ -1,18 +1,18 @@
 
 
 '''
+Rules
+-------------
+
 ***RULES***
 
+> - Total usable credit is 100, As soon as you have enough credit you can select players.
 
-1 wk
-3-5 batsmen
-1-3 AR
-3-5 Bowler
-
-credit 100
-team 
-max 7 from 1 team
-4 from another
+> - Only one WK is allowed
+> - Batsman: Min 3 , Max 5
+> - All Rounder (AR): Min 1 , Max 3
+> - Bowler: Min 3, Max 5
+> - Maximum 7 player from 1 team is allowed
 '''
 
 from itertools import combinations 
